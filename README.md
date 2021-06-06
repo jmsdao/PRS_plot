@@ -6,7 +6,7 @@
 - We will run a scatter plot of our results, and compare it to sample results.
 
 # Requirements
-- Download post-qc.zip from [this link](https://drive.google.com/file/d/1x_G0Gxk9jFMY-PMqwtg6-vdEyUPp5p5u/view) and unzip its contents into the same directory as this notebook.
+- Download `post-qc.zip` from [this link](https://drive.google.com/file/d/1x_G0Gxk9jFMY-PMqwtg6-vdEyUPp5p5u/view) and unzip its contents into the same directory as this notebook.
 - Download PRSice-2 from [this link](https://www.prsice.info/), and place it in the same directory as the contents of this notebook.
   - Note: depending on your OS, you will need to download the correct executable and adapt some of the code provided in this notebook.
   - Windows users can use the Linux executable via WSL (Windows Subsystem for Linux).
